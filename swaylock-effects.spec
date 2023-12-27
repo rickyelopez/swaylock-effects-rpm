@@ -1,4 +1,4 @@
-%define upstreamversion 1.6.11
+%define upstreamversion 1.7.0.0
 #%define forkversion 11
 
 Name:       swaylock-effects
@@ -63,6 +63,8 @@ swaylock-effects is a screen locking utility for Wayland compositors, with fancy
 
 
 %changelog
+* Tue Dec 26 2023 ricclopez <rickyerlopez@gmail.com> - 1.7.0.0
+- Upgrade to version 1.7.0.0 https://github.com/jirutka/swaylock-effects/releases/tag/v1.7.0.0
 * Sun Jul 23 2023 TRS-SoD <the_real_skull@hotmail.com> - 1.6.11
 - Upgrade to version 1.6.11 https://github.com/jirutka/swaylock-effects/releases/tag/v1.6.11
 * Sun Jul 23 2023 TRS-SoD <the_real_skull@hotmail.com> - 1.6-4
